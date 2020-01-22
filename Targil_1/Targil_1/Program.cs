@@ -19,7 +19,7 @@ namespace Targil_1
         static void Main(string[] args)
         {
             //Console.WriteLine(MyClass.StaticField);
-            MyClass.Foo();
+            //MyClass.Foo();
             Console.WriteLine("First...");
 
             for (int i = 0; i < 11; i++)
@@ -34,20 +34,25 @@ namespace Targil_1
         {
             static int Counter = InitialValue();
             public static int StaticField = 1;
+
+            static MyClass()
+            {
+                Console.WriteLine("Iam static constructor");
+            }
             public MyClass(int x)
             {
-                //if(counter >=10)
+                //if (counter >= 10)
                 //{
                 //    Console.WriteLine("Too Many objects");
                 //}
                 Console.WriteLine(x);
             }
             public static int InitialValue() {
-                Console.WriteLine("initial Value");
+                Console.WriteLine($"initial Value {Counter} and staticField { StaticField } ");
                 return 0;
             }
             public static void Foo() {
-              //  Console.WriteLine("Foo");
+               Console.WriteLine("Foo");
             }
         }
     }
