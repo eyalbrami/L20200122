@@ -55,5 +55,12 @@ namespace Targil_1
                Console.WriteLine("Foo");
             }
         }
+
+        static class MyStaticClass
+        {
+
+        }
+
+
     }
 }
