@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\bin\Debug\Targil_1.exe.config
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\bin\Debug\Targil_1.exe
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\bin\Debug\Targil_1.pdb
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\obj\Debug\Targil_1.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\obj\Debug\Targil_1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\obj\Debug\Targil_1.exe
+D:\Visual Studio 2017\Projects\L20200122\Targil_1\Targil_1\obj\Debug\Targil_1.pdb

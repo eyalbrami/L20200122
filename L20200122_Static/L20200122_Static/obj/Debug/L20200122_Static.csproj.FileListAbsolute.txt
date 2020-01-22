@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\bin\Debug\L20200122_Static.exe.config
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\bin\Debug\L20200122_Static.exe
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\bin\Debug\L20200122_Static.pdb
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\obj\Debug\L20200122_Static.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\obj\Debug\L20200122_Static.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\obj\Debug\L20200122_Static.exe
+D:\Visual Studio 2017\Projects\L20200122\L20200122_Static\L20200122_Static\obj\Debug\L20200122_Static.pdb
