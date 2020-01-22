@@ -27,6 +27,7 @@ namespace Targil_1
                 new MyClass(i);
                 
             }
+            MyStaticClass.Foo();
             Console.ReadLine();
 
         }
@@ -58,7 +59,10 @@ namespace Targil_1
 
         static class MyStaticClass
         {
-
+            internal static void Foo()
+            {
+                Console.WriteLine($"initial Value Foo and staticMyClass");
+            }
         }
 
 
